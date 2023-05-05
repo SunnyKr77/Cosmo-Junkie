@@ -137,7 +137,7 @@ h4{
     padding: 30px 20px;
     background: #07083E;
 }
-#skills h3{
+#skills h3, p{
     text-align: center;
 }
 #skills ul{
